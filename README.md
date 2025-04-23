@@ -3,3 +3,7 @@
 ## 1.<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/SwitchyOmega.png" width="50" />
 
 ## 2.<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/ClashVergeRev.png" width="50" />
+## 2.<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="50" />
+
+
+## 3.<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/blob/main/png/%E6%9C%BA%E5%9C%BA/bbxy.png" width="50" />
