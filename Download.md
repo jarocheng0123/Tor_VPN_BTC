@@ -1,3 +1,34 @@
+## onion
+
+<a href="http://rzuwtpc4wb3xdzrj3yeajsvm3fkq4vbeubm2tdxaqruzzzgs5dwemlad.onion/zh-CN/tbb/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/tor.png" width="80" style="display: block;">
+  <span style="display: block;">Tor官网</span>
+</a>
+<a href="http://666666666tjjjeweu5iikuj7hkpke5phvdylcless7g4dn6vma2xxcad.onion/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/666.png" width="80" style="display: block;">
+  <span style="display: block;">666暗网导航</span>
+</a>
+<a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/wiki.png" width="80" style="display: block;">
+  <span style="display: block;">wiki索引</span>
+</a>
+<a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/Ahmia.png" width="80" style="display: block;">
+  <span style="display: block;">Ahmia搜索</span>
+</a>
+<a href="http://ttal7aftgb3sytd56io54sxzmdbg26qa3mkiym326xjathybwvj6ucqd.onion/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/ttal7.png" width="80" style="display: block;">
+  <span style="display: block;">担保市场</span>
+</a>
+<a href="http://xxxxxxxxxs6qbnahsbvxbghsnqh4rj6whbyblqtnmetf7vell2fmxmad.onion/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/xxxxx.png" width="80" style="display: block;">
+  <span style="display: block;">交易市场</span>
+</a>
+<a href="http://weapon5dj7fwz2zaqa22fqeaqrauclim5kfvecegphrvxeywxoa3wuid.onion/shop.php" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/onion/Black Market.png" width="80" style="display: block;">
+  <span style="display: block;">出售武器</span>
+</a>
+
 ## 404
 
 <a href="http://www.bannedbook.org" style="display: inline-block; text-align: center;">
