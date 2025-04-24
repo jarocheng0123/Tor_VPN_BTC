@@ -1,3 +1,18 @@
+## GFW
+
+<a href="https://www.baidu.com/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80" style="display: block;">
+  <span style="display: block;">百度</span>
+</a>
+<a href="https://weibo.com/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/weibo.png" width="80" style="display: block;">
+  <span style="display: block;">微博</span>
+</a>
+<a href="https://www.gov.cn/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/China.png" width="80" style="display: block;">
+  <span style="display: block;">中国</span>
+</a>
+
 ## onion
 
 <a href="http://rzuwtpc4wb3xdzrj3yeajsvm3fkq4vbeubm2tdxaqruzzzgs5dwemlad.onion/zh-CN/tbb/" style="display: inline-block; text-align: center;">
@@ -411,4 +426,107 @@
 <a href="https://www.binance.com/zh-CN" style="display: inline-block; text-align: center;">
 <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Wallet/Binance.png" width="80" style="display: block;">
   <span style="display: block;">Binance</span>
+</a>
+
+
+## bot
+
+### 频道
+
+<a href="https://t.me/tgcnx" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/tgcnx.png" width="80" style="display: block;">
+  <span style="display: block;"> 中文社群 </span>
+</a>
+<a href="https://t.me/tgzhcn" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/tgzhcn.png" width="80" style="display: block;">
+  <span style="display: block;"> 中文圈 </span>
+</a>
+<a href="https://t.me/YinxiangBiji_News" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/YinxiangBiji_News.png" width="80" style="display: block;">
+  <span style="display: block;"> 中文频道 </span>
+</a>
+
+### 搜索
+
+<a href="https://t.me/sousuop" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/sousuop.png" width="80" style="display: block;">
+  <span style="display: block;"> 谷歌搜群 </span>
+</a>
+<a href="https://t.me/KEEPY88" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/KEEPY88.png" width="80" style="display: block;">
+  <span style="display: block;"> 中文搜索 </span>
+</a>
+<a href="https://t.me/baidu91" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/baidu91.png" width="80" style="display: block;">
+  <span style="display: block;"> 百度中文 </span>
+</a>
+<a href="https://t.me/hao1234bot" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/hao1234bot.png" width="80" style="display: block;">
+  <span style="display: block;"> Hao123 </span>
+</a>
+<a href="https://t.me/IME_zhCN" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/IME_zhCN.png" width="80" style="display: block;">
+  <span style="display: block;"> 酷搜 🔍 </span>
+</a>
+
+### VPN
+
+<a href="https://t.me/clash_verge_re" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/clash_verge_re.png" width="80" style="display: block;">
+  <span style="display: block;"> clash verge rev </span>
+</a>
+<a href="https://t.me/Clashclient" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/Clashclient.png" width="80" style="display: block;">
+  <span style="display: block;"> Clash 交流群 </span>
+</a>
+<a href="https://t.me/ShadowrocketApp" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/ShadowrocketApp.png" width="80" style="display: block;">
+  <span style="display: block;"> Shadowrocket </span>
+</a>
+<a href="https://t.me/QuanXApp" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/QuanXApp.png" width="80" style="display: block;">
+  <span style="display: block;"> Quantumult X </span>
+</a>
+<a href="https://t.me/loveapps" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/loveapps.png" width="80" style="display: block;">
+  <span style="display: block;"> Surge 交流 </span>
+</a>
+
+### 机场
+
+<a href="https://t.me/+IugiUXlyYqgyNjE0" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/+IugiUXlyYqgyNjE0.png" width="80" style="display: block;">
+  <span style="display: block;"> 百变小樱 </span>
+</a>
+<a href="https://t.me/jichang_list" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/jichang_list.png" width="80" style="display: block;">
+  <span style="display: block;"> 机场列表 </span>
+</a>
+<a href="https://t.me/jichang_user" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/jichang_user.png" width="80" style="display: block;">
+  <span style="display: block;"> 机场交流群 </span>
+</a>
+
+
+#### 暗网
+
+<a href="https://t.me/getbridgesbot" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/getbridgesbot.png" width="80" style="display: block;">
+  <span style="display: block;"> Tor Bridges </span>
+</a>
+<a href="https://t.me/onion666666" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/onion666666.png" width="80" style="display: block;">
+  <span style="display: block;"> 暗网导航 </span>
+</a>
+
+
+###  社工库
+
+<a href="https://t.me/jrsgk2_bot" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/jrsgk2_bot.png" width="80" style="display: block;">
+  <span style="display: block;"> 巨人社工库 </span>
+</a>
+<a href="https://t.me/JokerSGKbot" style="display: inline-block; text-align: center;">
+<img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/bot/JokerSGKbot.png" width="80" style="display: block;">
+  <span style="display: block;"> 小丑社工 </span>
 </a>
