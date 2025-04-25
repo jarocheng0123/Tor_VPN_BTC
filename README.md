@@ -67,3 +67,37 @@
     百度
   </span>
 </a>
+
+
+## 4
+
+[百度](https://www.baidu.com/)  
+![图片](https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png)
+
+[百度](https://www.baidu.com/)  
+![图片](https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png)
+[百度](https://www.baidu.com/)  
+![图片](https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png)
+
+## 5
+
+
+<p style="text-align: center;">
+  <a href="https://www.baidu.com/">
+    <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80" style="display: block; margin: 0 auto;">
+    <span style="display: block;">百度</span>
+  </a>
+</p>
+
+<p style="text-align: center;">
+  <a href="https://www.baidu.com/">
+    <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80" style="display: block; margin: 0 auto;">
+    <span style="display: block;">百度</span>
+  </a>
+</p>
+<p style="text-align: center;">
+  <a href="https://www.baidu.com/">
+    <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80" style="display: block; margin: 0 auto;">
+    <span style="display: block;">百度</span>
+  </a>
+</p>
