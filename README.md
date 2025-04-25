@@ -5,6 +5,21 @@
   <span style="display: block;">百度4</span>
 </a>
 
+<a href="https://www.baidu.com/" style="display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80" style="display: block;">
+  <br>
+  <span style="display: block;">百度5</span>
+  <br>
+</a>
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" alt="Clash" width="128" />
+  <br>
+  <a href="https://www.baidu.com/">百度6</a>
+  <br>
+</h1>
+
 
 ## GFW
 
