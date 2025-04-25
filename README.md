@@ -198,3 +198,31 @@
     </td>
   </tr>
 </table>
+
+
+## 9
+
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.baidu.com/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80">
+        <div style="text-align: center;">百度</div>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.baidu.com/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80">
+        <div style="text-align: center;">百度</div>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.baidu.com/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/GFW/baidu.png" width="80">
+        <div style="text-align: center;">百度</div>
+      </a>
+    </td>
+  </tr>
+</table>
