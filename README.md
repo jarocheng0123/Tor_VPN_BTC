@@ -1186,20 +1186,20 @@ cd tor-browser
 
 
 
-### [Clash verge rev 配置](https://www.clashverge.dev/guide/quickstart.html)
+### Clash verge rev 配置
 
-开启系统代理，设置端口7897
+ - [开启系统代理，设置端口7897](https://www.clashverge.dev/guide/quickstart.html)
 <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Setup/ClashVergeRev1.png" width="60%" style="display: block;">
 
 
-### [SwitchyOmega 配置](https://proxy-switchyomega.com/settings/)
-代理协议 HTTP 127.0.0.1:7897
+### SwitchyOmega 配置
+ - [代理协议 HTTP 127.0.0.1:7897](https://proxy-switchyomega.com/settings/)
 <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Setup/SwitchyOmega1.png" width="80%" style="display: block;">
 
 
 
-### [Telegram 配置](https://kerrynotes.com/how-to-set-telegram-proxy/)
-自定义代理 SOCKS5 127.0.0.1:7897
+### Telegram 配置
+ - [自定义代理 SOCKS5 127.0.0.1:7897](https://kerrynotes.com/how-to-set-telegram-proxy/)
 <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Setup/Telegram3.png" width="30%" style="display: block;">
 
 
@@ -1207,9 +1207,9 @@ cd tor-browser
 
 ### Tor Browser 配置
  - [网桥连接](https://blog.csdn.net/m0_73135216/article/details/131274834)
- - [代理连接(推荐)](https://zhuanlan.zhihu.com/p/653060558)
+ - [配置代理 SOCKS5 127.0.0.1:7897](https://zhuanlan.zhihu.com/p/653060558)
  
-配置代理 SOCKS5 127.0.0.1:7897
+
 <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Setup/TorBrowser2.png" width="50%" style="display: block;">
 
 
