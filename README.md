@@ -1140,7 +1140,7 @@ sudo dpkg -i ./google-chrome-stable_current_amd64.deb
 
 #### [Tor 浏览器](https://www.torproject.org/zh-CN/download/)
 ```bash
-tar -xvf tor-browser-linux-x86_64-14.5.tar.xz
+tar -xvf tor-browser-linux-x86_64-14.5.1.tar.xz
 cd tor-browser
 ./start-tor-browser.desktop
 ./start-tor-browser.desktop --register-app
