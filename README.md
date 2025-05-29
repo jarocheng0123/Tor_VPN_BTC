@@ -476,7 +476,7 @@
 </table>
 
 
-## Windows Linux macOS  代理
+## 支持多平台代理
 
 <table>
   <tr>
@@ -845,6 +845,8 @@
 
 ## 安卓访问
 
+ - 开启VPN后无需额外配置，即可访问onion
+
 <table>
   <tr>
     <td style="text-align: center;">
@@ -863,7 +865,7 @@
     </td>
     <td style="text-align: center;">
       <a href="https://www.torproject.org/zh-CN/download/">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/Tor Browser for Android.png" width="80">
         <br>
         <span>TorBrowser</span>
       </a>
@@ -872,6 +874,8 @@
 </table>
 
 ## 苹果访问
+
+ - 开启VPN后无需额外配置，即可访问onion
 
 <table>
   <tr>
@@ -899,63 +903,12 @@
   </tr>
 </table>
 
-## Windows访问
+## Windows/mac/Ubuntu 通用方案
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://flowercloud.net/clientarea.php">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
-        <br>
-        <span>FlowerCloud</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
-        <br>
-        <span>ClashVergeRev</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.torproject.org/zh-CN/download/">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
-        <br>
-        <span>TorBrowser</span>
-      </a>
-    </td> 
-  </tr>
-</table>
+ - **方案1** ClashVergeRev 仅设置虚拟网卡模式，Tor Browser 不做任何设置
+ - **方案2** ClashVergeRev 仅设置端口为`7897`，Tor Browser 采用 SOCKS5代理：`127.0.0.1:7897`
 
-## mac访问
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://flowercloud.net/clientarea.php">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
-        <br>
-        <span>FlowerCloud</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
-        <br>
-        <span>ClashVergeRev</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.torproject.org/zh-CN/download/">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
-        <br>
-        <span>TorBrowser</span>
-      </a>
-    </td> 
-  </tr>
-</table>
-
-## Ubuntu访问
 
 <table>
   <tr>
