@@ -124,6 +124,13 @@
         <span>TorBrowser</span>
       </a>
     </td>
+    <td style="text-align: center;">
+      <a href="https://apps.apple.com/us/app/onion-browser/id519296448">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/Onion Browser.png" width="80">
+        <br>
+        <span>Onion Browser</span>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -474,17 +481,17 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://www.clashverge.dev/install.html">
+      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
         <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
         <br>
         <span>ClashVergeRev</span>
       </a>
     </td>
     <td style="text-align: center;">
-      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
-        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
+      <a href="https://github.com/chen08209/FlClash">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/FlClash.png" width="80">
         <br>
-        <span>ClashVergeRev</span>
+        <span>FlClash</span>
       </a>
     </td>
   </tr>
@@ -832,6 +839,147 @@
         <span>出售武器</span>
       </a>
     </td>
+  </tr>
+</table>
+
+
+## 安卓访问
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://flowercloud.net/clientarea.php">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
+        <br>
+        <span>FlowerCloud</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/chen08209/FlClash">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/FlClash.png" width="80">
+        <br>
+        <span>FlClash</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.torproject.org/zh-CN/download/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
+        <br>
+        <span>TorBrowser</span>
+      </a>
+    </td> 
+  </tr>
+</table>
+
+## 苹果访问
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://flowercloud.net/clientarea.php">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
+        <br>
+        <span>FlowerCloud</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://apps.apple.com/us/app/surge-5/id1442620678">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/Surge.png" width="80">
+        <br>
+        <span>Surge</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://apps.apple.com/us/app/onion-browser/id519296448">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/Onion Browser.png" width="80">
+        <br>
+        <span>Onion Browser</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Windows访问
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://flowercloud.net/clientarea.php">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
+        <br>
+        <span>FlowerCloud</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
+        <br>
+        <span>ClashVergeRev</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.torproject.org/zh-CN/download/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
+        <br>
+        <span>TorBrowser</span>
+      </a>
+    </td> 
+  </tr>
+</table>
+
+## mac访问
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://flowercloud.net/clientarea.php">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
+        <br>
+        <span>FlowerCloud</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
+        <br>
+        <span>ClashVergeRev</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.torproject.org/zh-CN/download/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
+        <br>
+        <span>TorBrowser</span>
+      </a>
+    </td> 
+  </tr>
+</table>
+
+## Ubuntu访问
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://flowercloud.net/clientarea.php">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/API/FlowerCloud.png" width="80">
+        <br>
+        <span>FlowerCloud</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/clash-verge-rev/clash-verge-rev">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/VPN/ClashVergeRev.png" width="80">
+        <br>
+        <span>ClashVergeRev</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.torproject.org/zh-CN/download/">
+        <img src="https://raw.githubusercontent.com/jarocheng0123/beginner_guide/refs/heads/main/png/Browser/TorBrowser.png" width="80">
+        <br>
+        <span>TorBrowser</span>
+      </a>
+    </td> 
   </tr>
 </table>
 
